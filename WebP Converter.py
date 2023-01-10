@@ -20,4 +20,4 @@ for file in os.listdir(dir_path):
 print('Finished converting images to webp format.')
 
 
-"This script will loop through all files in the specified dir_path directory, ignore any files that are not png or jpg images, and then convert the images to the webp format and save them in the same directory."
+#This script will loop through all files in the specified dir_path directory, ignore any files that are not png or jpg images, and then convert the images to the webp format and save them in the same directory.
